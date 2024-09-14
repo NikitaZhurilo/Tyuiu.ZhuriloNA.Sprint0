@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{CDEDEFC3-958D-4F99-9AB4-8A5883B51460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZhuriloNA.Sprint0.Task0.V0", "Tyuiu.ZhuriloNA.Sprint0.Task0.V0\Tyuiu.ZhuriloNA.Sprint0.Task0.V0.csproj", "{2A3B85C2-277A-45B0-8755-C8CB79DC6080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3B85C2-277A-45B0-8755-C8CB79DC6080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3B85C2-277A-45B0-8755-C8CB79DC6080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3B85C2-277A-45B0-8755-C8CB79DC6080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3B85C2-277A-45B0-8755-C8CB79DC6080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A3B85C2-277A-45B0-8755-C8CB79DC6080} = {CDEDEFC3-958D-4F99-9AB4-8A5883B51460}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58206365-DF8B-462D-9889-D8E98B341C7B}
+	EndGlobalSection
+EndGlobal
