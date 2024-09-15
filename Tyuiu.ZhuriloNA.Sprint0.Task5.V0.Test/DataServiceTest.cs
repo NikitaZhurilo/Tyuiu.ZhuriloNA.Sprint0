@@ -1,9 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using Tyuiu.ZhuriloNA.Sprint0.Task5.V0.Lib;
 
-using Tyuiu.ZhuriloNA.Sprint0.Task4.V0.Lib;
-
-namespace Tyuiu.ZhuriloNA.Sprint0.Task4.V0.Test
+namespace Tyuiu.ZhuriloNA.Sprint0.Task5.V0.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -13,19 +12,16 @@ namespace Tyuiu.ZhuriloNA.Sprint0.Task4.V0.Test
         {
             Assert.AreEqual(10, DataService.Addition(5, 5));
         }
-
         [TestMethod]
         public void CheckedSubtractionValid()
         {
             Assert.AreEqual(5, DataService.Subtraction(10, 5));
         }
-
         [TestMethod]
         public void CheckedMultiplicationValid()
         {
             Assert.AreEqual(50, DataService.Multiplication(10, 5));
         }
-
         [TestMethod]
         public void CheckedDivisionValid()
         {
